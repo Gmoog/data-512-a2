@@ -79,7 +79,8 @@ Also for information on how to access the API in python and retrieve quality rat
 All details regarding data curation and analysis of the data, are explained in the jupyter notebook present in the same folder.
 
 ### Output tables
-Table-1 
+**Table-1** 
+
 Shows the 10 highest-ranked countries in terms of number of politician articles as a proportion of country population
 
 | country        | article_proportion (as % of population)          
@@ -95,7 +96,8 @@ Shows the 10 highest-ranked countries in terms of number of politician articles 
 | andorra | 0.0425      |
 | federated states of micronesia | 0.038      |
 
-Table-2 
+**Table-2** 
+
 Shows the 10 lowest-ranked countries in terms of number of politician articles as a proportion of country population
 
 | country        | article_proportion (as % of population)          
@@ -111,7 +113,8 @@ Shows the 10 lowest-ranked countries in terms of number of politician articles a
 |bangladesh|0.000194111|
 |mozambique|0.000196721|
 
-Table-3 
+**Table-3** 
+
 Shows the 10 highest-ranked countries in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country
 
 | country  | total_article_count | good_article_count | proportion (as percentage) 
@@ -127,7 +130,8 @@ Shows the 10 highest-ranked countries in terms of number of GA and FA-quality ar
 |united states|1092|82.0|7.509158|
 |benin|94|7.0|7.446809|
 
-Table-4 
+**Table-4**
+
 Shows 10 lowest-ranked countries in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country
 
 | country  | total_article_count | good_article_count | proportion (as percentage) 
