@@ -163,11 +163,9 @@ The final csv file 'en-wikipedia_article_quality_bycountry.csv' is kept in the s
 ### Reflection
 
 The thing that stands out for me in terms of possible bias, is the fact that we do not know the source of these articles, as in where the authors actually wrote it from and whether they are citizens of the country the politicians belong to. 
-
 In the absense of this information, it is hard to glean too much from information about the article and the population of the country it belongs to, as it might never have originated from that country in the first place.
 
 Lets start by looking at the results from the first table above, which lists the top 10 countries having the most number of articles when compared to its population. 
-
 Its not surprising to see almost all the countries on this list are small in size, infact Tuvalu has a population of only 10000, as per the data. So it is definitely surprising that there were 55 articles written about their politicians, when in all likelihood, they probably have less than 50 people governing them. 
 
 Likewise the 10 lowest ranked countries in this category, are being led by countries having the largest populations like India and China. One reason this could be the case is because the data only looks at English wikipedia and folks in these countries probably prefer using local dialects. Also the fact that China is not a democracy, could curtail the amount of articles coming out of there, especially about their politicians.
