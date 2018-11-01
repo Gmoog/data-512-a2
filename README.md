@@ -21,7 +21,7 @@ Additional details can be found at the link below
 ### Data
 
 The data used for the analyses has been merged from 3 different sources.
-##### Wikipedia
+#### Wikipedia
 First up we have the wikipedia data, that lists each article name, followed by which countries politician it addresses, and finally an id field to categorize the last modification done to it. 
 
 The data has been released under the CC-BY-SA 4.0 license, and can be downloaded from the link below
@@ -39,7 +39,7 @@ The file 'page_data.csv' consists of 3 columns
 
 A point to note as per the documentation, is that the country codes are not always consistent, wherever possible they have tried to keep it standard, but thats not always the case.
 
-##### Population
+#### Population
 The population data consists of the country name and its corresponding population in millions. 
 
 Again the country name is not strictly countries, as it also lists combined figures for entire continents as well.
@@ -56,7 +56,7 @@ The fields in the file are
 - 'Geography' - Name of the country/continent
 - 'Population mid-2018 (millions)' - Population figures in millions.
 
-##### Article quality
+#### Article quality
 For evaluating the quality for each article, we parse them through a Wikimedia API endpoint for a machine learning service call ORES (Objective Revision Evaluative Services). 
 
 The algorithm returns one out of a possible 6 values for each article as its prediction, and also return the probabilities associated with all the 6 classifiers. 
